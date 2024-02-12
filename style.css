@@ -94,7 +94,7 @@ html {
     display:flex;
     flex-direction: row;
     font-size: 12px;
-    overflow: auto;
+    overflow: scroll;
 
     .mainbar-content {
         width: 20%;
