@@ -56,10 +56,11 @@ html {
 
         .header-button-read {
             padding: 3px 6px;
+            font-weight: 700;
             color: red;
             border: solid red;
             border-radius: 9px;
-            font-weight: 700;
+            
         }
         .header-button-subscribe {
             padding: 3px 6px;
